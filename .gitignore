@@ -1,0 +1,6 @@
+*.out
+*.eps
+__pycache__
+venv
+.vscode
+.git
